@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.kiboan.core;
 
 
 import org.apache.ibatis.exceptions.TooManyResultsException;
